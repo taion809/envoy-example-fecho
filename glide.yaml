@@ -1,0 +1,6 @@
+package: github.com/taion809/fecho
+import:
+- package: github.com/go-chi/chi
+  version: ^3.3.2
+  subpackages:
+  - middleware

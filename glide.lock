@@ -1,0 +1,8 @@
+hash: 91aea1ff69ef21c4b7c663ff06e36b327285dc6fd4691ab5ca671581675bb4ec
+updated: 2018-03-04T15:03:17.027658355-05:00
+imports:
+- name: github.com/go-chi/chi
+  version: e83ac2304db3c50cf03d96a2fcd39009d458bc35
+  subpackages:
+  - middleware
+testImports: []
